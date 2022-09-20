@@ -284,6 +284,7 @@ a:hover,
   overflow: hidden;
   max-width: 450px;
   margin: auto;
+  box-shadow: 0 10px 20px rgba(117, 106, 241, 0.3);
 }
 
 .card__content {
